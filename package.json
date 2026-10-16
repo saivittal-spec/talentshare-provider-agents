@@ -5,10 +5,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "dev": "tsx src/index.ts",
-  "typecheck": "tsc --noEmit",
-  "test": "vitest run"
-},
+    "dev": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/saivittal-spec/talentshare-provider-agents.git"
