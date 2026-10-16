@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import type { ProviderProspect } from "../src/models/provider";
+import type { ProviderProspect } from "../src/models/provider.js";
 
 describe("Provider Prospect", () => {
   it("keeps qualification and contact eligibility separate", () => {

@@ -1,5 +1,5 @@
 
-import type { ProviderProspect } from "./models/provider";
+import type { ProviderProspect } from "./models/provider.js";
 
 const provider: ProviderProspect = {
   id: "provider-001",
