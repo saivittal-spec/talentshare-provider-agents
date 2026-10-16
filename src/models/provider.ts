@@ -28,7 +28,7 @@ export type PriorityTier =
 export interface ProviderEvidence {
   id: string;
   sourceName: string;
-  sourceUrl?: string;
+  sourceUrl?: string | undefined;
   observedAt: string;
   fact: string;
 }
