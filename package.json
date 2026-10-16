@@ -1,0 +1,32 @@
+{
+  "name": "talentshare-provider-agents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "tsx src/index.ts",
+  "typecheck": "tsc --noEmit",
+  "test": "vitest run"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saivittal-spec/talentshare-provider-agents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saivittal-spec/talentshare-provider-agents/issues"
+  },
+  "homepage": "https://github.com/saivittal-spec/talentshare-provider-agents#readme",
+  "dependencies": {
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.5"
+  }
+}
