@@ -1,0 +1,21 @@
+# Installed npm packages
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Compiled output
+dist/
+build/
+.next/
+
+# Test coverage reports
+coverage/
+
+# Temporary logs
+*.log
+
+# Operating system files
+.DS_Store
