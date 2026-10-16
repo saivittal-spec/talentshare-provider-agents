@@ -1,6 +1,7 @@
 {
   "name": "talentshare-provider-agents",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +16,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/saivittal-spec/talentshare-provider-agents/issues"
   },
